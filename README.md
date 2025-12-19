@@ -17,5 +17,5 @@ This repository contains a machine learning project focused on predicting heart 
 ## Project Timeline
 The project is managed over a 10-week period using issue tracking and a project board.
 
-## Author
-Shravani Bhupal
+## Project Board
+
