@@ -19,3 +19,4 @@ The project is managed over a 10-week period using issue tracking and a project 
 
 ## Project Board
 
+https://github.com/sarth-1411/heart-diseases-project/projects?query=is%3Aopen
