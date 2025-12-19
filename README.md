@@ -1,5 +1,9 @@
 # heart-diseases-project
 
+Name - Sarth Patel
+Course Number - IS 594
+Course - Project Management
+
 # Heart Disease Classification Project
 
 This repository contains a machine learning project focused on predicting heart disease risk using patient health data.
